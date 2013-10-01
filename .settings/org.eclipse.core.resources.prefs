@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/AbstractFactory/Factory.java=UTF-8
+encoding//src/AbstractFactory/MailFactory.java=UTF-8
+encoding//src/Factory/MailSender.java=UTF-8
+encoding//src/Factory/Sender.java=UTF-8
+encoding//src/Factory/SenderFactory.java=UTF-8
